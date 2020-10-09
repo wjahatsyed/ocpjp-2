@@ -3,6 +3,7 @@ package com.wjahatsyed.ocp.chapter_two.i_a_s_v_o_an_overridden_method.example_2;
 /**
  * Created by Syed Wajahat on 10/9/2020.
  * This shows how we can use super.someMethod to call default overridden method in the interface
+ * super keyword cannot be used to access static methods i.e. only applicable for instance methods
  */
 public class MyClass implements MyInterface {
     @Override
