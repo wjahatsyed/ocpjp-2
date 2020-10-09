@@ -35,8 +35,9 @@ public class OverridingRules {
 
     9. You cannot override a method marked final.
 
+    10. You cannot override a method marked static.
 
-    10. You cannot override a method marked static. We will look
+    11.
 
 
 
