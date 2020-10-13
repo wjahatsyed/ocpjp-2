@@ -20,7 +20,7 @@ public class CastTest2 {
                 //We need typecasting here without casting, this would not compile
                 //animal.playDead();
 
-                //Let's cast the object
+                //Let's cast the object - example of downcast
                 ((Dog) animal).playDead();
             }
         }
