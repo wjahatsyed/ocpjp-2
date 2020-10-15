@@ -1,4 +1,4 @@
-package com.wjahatsyed.ocp.casting;
+package com.wjahatsyed.ocp.chapter_two.casting;
 
 /**
  * Created by Syed Wajahat on 10/13/2020.
