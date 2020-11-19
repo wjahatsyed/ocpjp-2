@@ -1,4 +1,4 @@
-package com.wjahatsyed.ocp.chapter_two.singleton_design_pattern.solution;
+package com.wjahatsyed.ocp.chapter_two.singleton_design_pattern.solution.eager_initialization;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -8,6 +8,8 @@ import java.util.Set;
  * Make the constructor private
  * Create a constant which refers to a newly created object of the class
  * create a static method to return the instance
+ *
+ * This example has eager initialization
  */
 public class Show {
     /*
